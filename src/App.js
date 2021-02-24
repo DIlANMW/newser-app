@@ -79,7 +79,7 @@ class Search extends Component {
             date={value.publishedAt}
           />
         ))}
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }
